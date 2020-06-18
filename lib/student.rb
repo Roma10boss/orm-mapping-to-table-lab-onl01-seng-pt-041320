@@ -43,3 +43,4 @@ def self.create(name,grade)
   student.save
   student
 end
+end
